@@ -244,7 +244,7 @@ Check out [contribution guidelines](#contribution-guidelines).
 
 
 ## Contribution guideline
-You can [open an issue](https://github.com/durgeshsamariya/data-science-roadmap/issues) and give your suggestions as to how I can improve this guide, or what I can do to improve the learning experience.
+You can [open an issue](https://github.com/noorafsha08/data-science-roadmap/issues) and give your suggestions as to how I can improve this guide, or what I can do to improve the learning experience.
 
 You can also **fork this repo** and send a **pull request** to fix any mistakes that you have found.
 
